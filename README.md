@@ -4,7 +4,7 @@ Personal portfolio website for Hasnain Ahmed, a 4th-year Computer Science and En
 
 ## Live Site
 
-🔗 [hasnain163.github.io](https://hasnain163.github.io)
+🔗 [hasnain163.github.io](https://hasnain163.github.io/ahmed_portfolio/)
 
 ---
 
